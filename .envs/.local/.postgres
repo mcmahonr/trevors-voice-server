@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=trevors_voice_server
+POSTGRES_USER=ewJIzWLDBmyohRZvviAgQwRFCgEiatjQ
+POSTGRES_PASSWORD=WS0GtkJjkeuvBZWT20X6oi3KX57Bd11B81sBz5s6h2v8GsJbhAS9OTMqPSS8TJ1N
